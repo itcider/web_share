@@ -12,6 +12,7 @@
 	box-sizing: border-box;	
 	opacity: 0.5;
 	transition: opacity 0.33s linear;
+	scroll-behavior: smooth; 
 }
 .corner-round .sharesns {
 	border-radius: 15%;
